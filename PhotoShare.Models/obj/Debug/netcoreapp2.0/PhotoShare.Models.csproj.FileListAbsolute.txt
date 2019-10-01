@@ -1,0 +1,9 @@
+C:\Users\HRI\Documents\GitHub\PhotoShare\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.deps.json
+C:\Users\HRI\Documents\GitHub\PhotoShare\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\HRI\Documents\GitHub\PhotoShare\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\Users\HRI\Documents\GitHub\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csprojAssemblyReference.cache
+C:\Users\HRI\Documents\GitHub\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csproj.CoreCompileInputs.cache
+C:\Users\HRI\Documents\GitHub\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfoInputs.cache
+C:\Users\HRI\Documents\GitHub\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfo.cs
+C:\Users\HRI\Documents\GitHub\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\HRI\Documents\GitHub\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.pdb
